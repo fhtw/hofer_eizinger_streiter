@@ -5,7 +5,3 @@
 *.so
 *.so.*
 *.dylib
-
-# Executables
-*.out
-*.app
